@@ -56,4 +56,4 @@ A weighted scoring model using all 4 signals ranked high vs low performers corre
 
 ---
 
-*Analysis by Ephraim Owusu | Tactology Global Technical Test | February 2026*
+*Analysis by Ephraim Efevwerhan | Tactology Global Technical Test | February 2026*
